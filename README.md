@@ -111,9 +111,32 @@ Key transformation steps:
 -Add calculated columns (visibility, feels like, rain %)
 -Set correct data types
 
+
+
+
 ### **UI/UX Design Notes**
 -Clean minimal layout
 -Soft shadows & rounded edges
 -Weather icons
 -Color-coded AQI badges
 -Spacing optimized for readability
+
+### **🚀 How to Run**
+
+-Download or clone the repository
+-Open .pbix file in Power BI Desktop
+-Go to Transform Data → Parameters
+-Add your WeatherAPI Key
+-Click Refresh All
+
+
+### **📬 Contact**
+
+- Syed Murtaza Hassan
+- Data Analyst & BI Developer
+- LinkedIn: www.linkedin.com/in/syed-murtaza-hassan-rizvi-736795279
+- Email: hmurtaza510@gmail.com
+
+
+
+
